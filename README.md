@@ -18,4 +18,4 @@
 3. **Tracking**  
    Analyzing open-source data and monitoring reported neutralizations of combatants and military officials across conflict zones.
 
-[README.md](https://github.com/mozamelmohammad123-rgb/Introduction.of.myself.git).
+
